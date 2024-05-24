@@ -45,4 +45,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=muradhaji&theme=react&hide_border=true&border_radius=16"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muradhaji&theme=react&hide_border=true&include_all_commits=true&count_private=true&border_radius=16&hide_title=true" />
 
+## 📈 LeetCode Stats:
+
+<img src="https://leetcard.jacoblin.cool/muradhajiyev?border=0&radius=16&theme=nord&ext=heatmap" />
+
 <img src="https://visitcount.itsvg.in/api?id=muradhaji&icon=0&color=0" />
