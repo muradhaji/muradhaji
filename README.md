@@ -47,6 +47,6 @@
 
 ## 📈 LeetCode Stats:
 
-<img src="https://leetcard.jacoblin.cool/muradhajiyev?border=0&radius=16&theme=nord&ext=heatmap" />
+[![LeetCode](https://leetcard.jacoblin.cool/muradhajiyev?border=0&radius=16&theme=nord&ext=heatmap)](https://leetcode.com/u/muradhajiyev/)
 
 <img src="https://visitcount.itsvg.in/api?id=muradhaji&icon=0&color=0" />
